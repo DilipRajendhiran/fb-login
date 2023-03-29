@@ -87,7 +87,8 @@ public class Auto extends Base {
 		driver.navigate().refresh();
 		Thread.sleep(1000);
 
-	}
+	} user enter the user name
+	
 	
 
 

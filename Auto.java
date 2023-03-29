@@ -88,6 +88,7 @@ public class Auto extends Base {
 		Thread.sleep(1000);
 
 	} user enter the user name
+		user enter the pass
 	
 	
 
